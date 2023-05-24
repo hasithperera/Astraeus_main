@@ -34,7 +34,6 @@ The following is based on comments from KC3RXZ
 ## progress 
 
 ### 05/26/23
-
-	- using the test PCB was able to get initial temp and pressure data. (have a working [library](https://github.com/abishur/ms5x) for the pressure sensor
-	- it was noted that a nano is capable of using the pressure sensor directly however the teensy 4.1 was not able to detect it. likely reason is the operation voltage levels. a level shifter is needed. But for easy testing moving the platform to a nano for the test cycle 
+- using the test PCB was able to get initial temp and pressure data. (have a working [library](https://github.com/abishur/ms5x) for the pressure sensor
+- it was noted that a nano is capable of using the pressure sensor directly however the teensy 4.1 was not able to detect it. likely reason is the operation voltage levels. a level shifter is needed. But for easy testing moving the platform to a nano for the test cycle 
 	
